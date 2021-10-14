@@ -2,4 +2,5 @@ rencana konten
 - belajar js
   es6
   framework
+- materi dasar struktur data
 - belajar php
