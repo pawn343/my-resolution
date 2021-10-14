@@ -5,4 +5,8 @@ rencana konten
   - angular
   - react
 - belajar php
-  laravel
+   - vue
+   - react
+- materi dasar struktur data
+- belajar php
+- python
