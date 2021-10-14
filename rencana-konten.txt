@@ -2,5 +2,8 @@ rencana konten
 - belajar js
   es6
   framework
+   - vue
+   - react
 - materi dasar struktur data
 - belajar php
+- python
